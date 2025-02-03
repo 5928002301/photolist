@@ -8,15 +8,13 @@ h1 {
     color: skyblue;
     font-size: 2em;
 }
+li {
+color: white;}
 
-p {
-    color: darkslategray;
-    font-size: 1.2em;
-}
 ul {
     list-style-type: square;
 }
 img {
     max-width: 100%;
-    height: auto;
+    height:auto
 }
